@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 40px 0;
+}
+
+.container > * {
+    margin: 0 5px !important;
+}
+
+.select {
+    text-transform: capitalize !important;
+}

@@ -1,0 +1,6 @@
+export const CELL_STATUSES = {
+    CLEAR: 'CLEAR',
+    ACTIVE: 'ACTIVE',
+    COMPUTER_WON: 'COMPUTER_WON',
+    USER_WON: 'USER_WON'
+};

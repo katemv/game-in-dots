@@ -1,0 +1,25 @@
+@value colors: "../../helpers/colors.css";
+@value gRed, gBlue, gGreen, gRedLight, gBlueLight, gGreenLight from colors;
+
+.cell {
+    height: 45px;
+    width: 45px;
+    border: 2px solid lightgray;
+    margin-right: -2px;
+    cursor: pointer;
+}
+
+.green {
+    background-color: gGreen;
+    border: 2px solid gGreenLight;
+}
+
+.red {
+    background-color: gRed;
+    border: 2px solid gRedLight;
+}
+
+.blue {
+    background-color: gBlue;
+    border: 2px solid gBlueLight;
+}

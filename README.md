@@ -1,4 +1,4 @@
-### [Live demo here](https://katemv.github.io/game-in-dots/)
+***[Live demo here](https://katemv.github.io/game-in-dots/)***
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
